@@ -1,0 +1,93 @@
+
+{
+  "responsable": "MAMADOU LAMINE CISSOKO",
+  "signes_generaux_danger_oms": [
+    {
+      "code": "incapable_boire_teter",
+      "label_fr": "L'enfant est incapable de boire ou de téter le sein",
+      "label_wo": "Xale bi mënatul naan walla namp",
+      "gravite": "ROUGE",
+      "explication": "Signe général de danger selon la PCIME. Nécessite une évaluation médicale urgente."
+    },
+    {
+      "code": "vomit_tout",
+      "label_fr": "L'enfant vomit tout ce qu'il avale",
+      "label_wo": "Xale bi dafay waccu lépp lu mu lekk walla mu naan",
+      "gravite": "ROUGE",
+      "explication": "Signe général de danger selon la PCIME. L'enfant doit être évalué immédiatement par un professionnel de santé."
+    },
+    {
+      "code": "convulsions",
+      "label_fr": "L'enfant a eu des convulsions",
+      "label_wo": "Xale bi dafa daanu / yaram wi dafa dëgër",
+      "gravite": "ROUGE",
+      "explication": "Signe général de danger nécessitant une prise en charge médicale immédiate."
+    },
+    {
+      "code": "lethargique_inconscient",
+      "label_fr": "L'enfant est très mou ou difficile à réveiller",
+      "label_wo": "Xale bi dafa tayel lool, jafe na yee",
+      "gravite": "ROUGE",
+      "explication": "Signe général de danger nécessitant une évaluation médicale immédiate."
+    },
+    {
+      "code": "tirage_respiration",
+      "label_fr": "L'enfant respire très rapidement ou présente un creusement sous les côtes",
+      "label_wo": "Nooy bi dafa gaaw lool / dënn bi dafay suuxu",
+      "gravite": "ROUGE",
+      "explication": "Signe possible de détresse respiratoire. Une évaluation médicale urgente est nécessaire."
+    },
+    {
+      "code": "sang_selles",
+      "label_fr": "Présence de sang visible dans les selles",
+      "label_wo": "Deret ci biir bu daw bi",
+      "gravite": "ROUGE",
+      "explication": "Signe nécessitant une évaluation médicale rapide."
+    }
+  ],
+  "symptomes_courants": [
+    {
+      "code": "fievre_simple",
+      "label_fr": "Corps chaud ou fièvre",
+      "gravite": "JAUNE",
+      "conseil_fr": "Surveillez l'état général de l'enfant, évitez de trop le couvrir et poursuivez l'allaitement ainsi que les apports habituels en liquides adaptés à son âge. En zone d'endémie palustre, demandez rapidement conseil à un professionnel de santé pour une évaluation et un éventuel TDR du paludisme.",
+      "conseil_wo": "Wàññil yéere xale bi, nampal ko bu baax. Demal ci poste de santé ñu xool ndax sibiru (palu) la."
+    },
+    {
+      "code": "diarrhee_simple",
+      "label_fr": "Diarrhée liquide sans sang",
+      "gravite": "JAUNE",
+      "conseil_fr": "Poursuivez l'allaitement. Utilisez une solution de réhydratation orale (SRO) en respectant exactement le volume d'eau indiqué sur le sachet. Demandez conseil à un professionnel de santé, particulièrement si l'enfant boit difficilement, devient très faible ou présente d'autres signes inquiétants.",
+      "conseil_wo": "Jox ko ndoxum SRO, te topp ndigal yi nekk ci sache bi. Su fekkee xale bi dafa néew doole, demal ci poste de santé."
+    },
+    {
+      "code": "toux_rhume",
+      "label_fr": "Toux légère ou nez qui coule, sans difficulté respiratoire",
+      "gravite": "VERT",
+      "conseil_fr": "Nettoyez délicatement le nez avec du sérum physiologique si nécessaire. Continuez l'allaitement et les apports habituels en liquides adaptés à l'âge de l'enfant. Surveillez sa respiration et son état général.",
+      "conseil_wo": "Raxasal bakkanu xale bi ak sérum physiologique. Nampal ko bu baax te nga xool ni muy nooyee."
+    }
+  ],
+  "centres_sante_ziguinchor": [
+    {
+      "nom": "Hôpital de la Paix de Ziguinchor",
+      "quartier": "Néma / Route de Bignona, Ziguinchor",
+      "type": "Hôpital — contacter l'établissement pour connaître les services et horaires."
+    },
+    {
+      "nom": "Hôpital Régional de Ziguinchor",
+      "quartier": "Quartier Silence, Ziguinchor",
+      "type": "Hôpital régional — contacter l'établissement pour connaître les services et horaires."
+    },
+    {
+      "nom": "Centre de Santé Silence",
+      "quartier": "Quartier Silence, Ziguinchor",
+      "type": "Centre de santé — informations à confirmer auprès du district sanitaire."
+    },
+    {
+      "nom": "Postes de Santé Communautaires (Kandé, Lyndiane, Santhiaba, Néma)",
+      "quartier": "Selon le quartier ou le village",
+      "type": "Structures de soins de proximité — services à confirmer localement."
+    }
+  ]
+}
